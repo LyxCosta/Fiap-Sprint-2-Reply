@@ -19,7 +19,7 @@ Simulação de coleta de dados de temperatura e umidade usando ESP32 no Wokwi, c
 - **Kaggle:** Dados reais do dataset ["Environmental Sensor Data"](https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k), filtrados para temperatura e umidade.
 
 ## Esquema do Circuito
-![Circuito no Wokwi](Imagens/circuito_wokwi.png)
+![Circuito no Wokwi](Imagens/circuito_wokwi.jpg)
 
 ## Link da Simulação no Wokwi
 [Simulação no Wokwi](https://wokwi.com/projects/433630495917094913)
