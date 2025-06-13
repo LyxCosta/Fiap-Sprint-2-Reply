@@ -12,7 +12,7 @@ Simulação de coleta de dados de temperatura e umidade usando ESP32 no Wokwi, c
 
 ## Sensores Utilizados
 - **DHT22 (Temperatura e Umidade)**
-  - O sensor DHT22 mede temperatura e umidade, que são variáveis importantes em ambientes industriais, pois afetam diretamente o funcionamento das máquinas e a qualidade do ambiente.
+  - O sensor DHT22 mede temperatura e umidade, variáveis importantes em ambientes industriais, pois afetam diretamente o funcionamento das máquinas e a qualidade do ambiente. Além disso, é comumente utilizado na indústria, possui alta precisão e é compatível com simuladores como o Wokwi.
 
 ## Fontes de Dados
 - **Simulação Wokwi:** Dados coletados do sensor virtual no simulador Wokwi.
