@@ -62,7 +62,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 df = pd.read_csv('dados_sensor_wokwi.csv')
-plt.plot(df['Tempo'], df['Temperatura'], label='Temperatura (°C)')
+plt.plot(df['Tempo'], df['Temperatura'], label='Temperatura (C)')
 plt.plot(df['Tempo'], df['Umidade'], label='Umidade (%)')
 plt.legend()
 plt.savefig('Imagens/grafico_temperatura_umidade_wokwi.png')
@@ -76,7 +76,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 df = pd.read_csv('dados_simulador_kaggle.csv')
-plt.plot(df['Tempo'], df['Temperatura'], label='Temperatura (°C)')
+plt.plot(df['Tempo'], df['Temperatura'], label='Temperatura (C)')
 plt.plot(df['Tempo'], df['Umidade'], label='Umidade (%)')
 plt.legend()
 plt.savefig('Imagens/grafico_temperatura_umidade_kaggle.png')
