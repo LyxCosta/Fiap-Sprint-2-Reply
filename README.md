@@ -95,10 +95,12 @@ As leituras exibidas no terminal do Wokwi foram copiadas manualmente e salvas em
   ![CSV Wokwi](Imagens/csv_wokwi.jpg)
 - **Print da execução Wokwi:**
   ![Execução Wokwi](Imagens/execute_wokwi.jpg)
+  - **Print do script Python com dados do Wokwi rodando:**
+  ![Script Python](Imagens/simulacao_python_wokwi.jpg)
 - **Print do arquivo de dados do Kaggle:**
-  ![CSV Kaggle](Imagens/csv_kaggle.jpg)
-- **Print do script Python rodando:**
-  ![Script Python](Imagens/script_python.jpg)
+  ![CSV Kaggle](Imagens/origem_dados_kaggle.jpg)
+  - **Print do script Python com dados do Kaggle rodando:**
+  ![Script Python](Imagens/simulacao_python_kaggle.jpg)
 
 ## Análise dos Dados
 
